@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-05 10:52-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SourceIndex/SourceIndex.gpr.py:23
+msgid "BirthIndex"
+msgstr ""
+
+#: SourceIndex/SourceIndex.gpr.py:38
+msgid "MarriageIndex"
+msgstr ""
+
+#: SourceIndex/SourceIndex.gpr.py:53
+msgid "DeathIndex"
+msgstr ""
+
+#: SourceIndex/SourceIndex.gpr.py:68
+msgid "CensusIndex"
+msgstr ""
+
+#: SourceIndex/SourceIndex.gpr.py:83
+msgid "Witness"
+msgstr ""
+
+#: SourceIndex/SourceIndex.gpr.py:98
+msgid "SourceIndex"
+msgstr ""
+
+#: SourceIndex/birth.py:126 SourceIndex/census.py:82 SourceIndex/death.py:87
+#: SourceIndex/index.py:92 SourceIndex/marriage.py:87 SourceIndex/witness.py:64
+msgid "Sources Index"
+msgstr ""
+
+#: SourceIndex/index.py:407
+msgid "*** Error: Must install either ElementTree or lxml."
+msgstr ""
+
+#: SourceIndex/index.py:409
+msgid "must install either ElementTree or lxml"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:1
+msgid "birth"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:2
+msgid "Date:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:3
+msgid "Info:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:4
+msgid "Birth act:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:5
+msgid "Reference:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:6
+msgid ""
+"Volume\n"
+"    Page:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:8
+msgid "The source title"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:9
+msgid "The volume or page of this source"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:10
+msgid "Names:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:11
+msgid "select the gender/sex"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:12
+msgid "Gender:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:13
+msgid "The names of the main person written into the source"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:14
+msgid "The first names of the main person written into the source"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:15
+msgid "First names:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:16
+msgid "Other:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:17
+msgid "Repository title"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:18
+msgid "<b>Image</b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:19
+msgid "<b><i>Repository</i></b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:20
+msgid ""
+"Spouse\n"
+"names:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:22
+msgid ""
+"Marriage\n"
+"date:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:24
+msgid ""
+"Death\n"
+"date:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:26
+msgid "Age:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:27
+msgid "Occupation:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:28
+msgid "Live:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:29
+msgid ""
+"<b>Witness\n"
+"Godfather\n"
+"Godmother:</b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:32
+msgid "Call number:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:33
+msgid "The call number into the repository"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:34
+msgid "<b><i>Data person</i></b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:35
+msgid "<b><i>Data margin</i></b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:36
+msgid "<b><i>Data father</i></b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:37
+msgid "<b><i>Data mother</i></b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:38
+msgid ""
+"witness1, name, given, age, occupation;\n"
+"witness2, name, given, age, occupation;\n"
+"godfather, name, given, age, occupation;\n"
+"etc ..."
+msgstr ""
+
+#: SourceIndex/birth.glade.h:42
+msgid "Cancel"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:43
+msgid "OK"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:44
+msgid ""
+"Marriage\n"
+"place:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:46
+msgid ""
+"Death\n"
+"place:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:48
+msgid ""
+"Birth\n"
+"place:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:50
+msgid "Origine:"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:51
+msgid "<b><i>Citation</i></b>"
+msgstr ""
+
+#: SourceIndex/birth.glade.h:52
+msgid "<b><i>Source</i></b>"
+msgstr ""
